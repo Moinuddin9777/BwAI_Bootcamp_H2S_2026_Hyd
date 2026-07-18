@@ -1,9 +1,10 @@
 [
   // append below and raise a PR
   {
-    "name": "Your Name",
-    "github_username": "your-github-handle",
-    "biggest_takeaway": "What was the coolest thing you learned about Antigravity or AI Studio today?",
-    "project_built_or_planned": "Brief description of the agent or web app you built during the hackathon phase."
+    "name": "Adit",
+    "github_username": "adi92ai",
+    "biggest_takeaway": "Being able to create end to end apps with very little inputs in absolutely no time, while self debugging and creating documentation.",
+    "project_built_or_planned": "NizamProp: Your AI-powered GPS for navigating the Greater Hyderabad property market.
+    https://ai.studio/apps/4bbd3b79-64ed-45b3-80c9-8b6418245dfc"
   }
 ]
