@@ -1,0 +1,9 @@
+[
+  // append below and raise a PR
+  {
+    "name": "Your Name",
+    "github_username": "your-github-handle",
+    "biggest_takeaway": "What was the coolest thing you learned about Antigravity or AI Studio today?",
+    "project_built_or_planned": "Brief description of the agent or web app you built during the hackathon phase."
+  }
+]
