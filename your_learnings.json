@@ -5,5 +5,11 @@
     "github_username": "your-github-handle",
     "biggest_takeaway": "What was the coolest thing you learned about Antigravity or AI Studio today?",
     "project_built_or_planned": "Brief description of the agent or web app you built during the hackathon phase."
-  }
+  },
+  {
+    "name": "Nikitaa R R",
+    "github_username": "NikitaaRamesh",
+    "biggest_takeaway": "The future isn't prompting models better-it's designing systems where AI becomes one component in a larger workflow",
+    "project_built_or_planned": "Telemetry-driven AI meal planner and grocery orchestrator featuring Batch Cook & Carry leftover logic and e-commerce-ready manifests. Refer <https://docs.google.com/document/d/1v0dMHhmarWvSFoDsvmilf8lFGPUoU2z07kDGPqnTjPI/edit?usp=sharing> for more details."
+  },
 ]
